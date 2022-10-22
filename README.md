@@ -1,4 +1,4 @@
-# online_store
+# Online_store Anime Shop
 Anime_WEB
 Project Description
 
